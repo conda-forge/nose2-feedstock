@@ -1,6 +1,6 @@
 {% set name = "nose2" %}
-{% set version = "0.9.0" %}
-{% set sha256 = "655e5d7bab8ecea8f5c8a983fd81850273dca2517ee7e91b01ce3e9103287505" %}
+{% set version = "0.9.1" %}
+{% set sha256 = "0ede156fd7974fa40893edeca0b709f402c0ccacd7b81b22e76f73c116d1b999" %}
 
 package:
   name: {{ name|lower }}
