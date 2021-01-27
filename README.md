@@ -5,11 +5,9 @@ Home: https://github.com/nose-devs/nose2
 
 Package license: BSD
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/nose2-feedstock/blob/master/LICENSE.txt)
 
 Summary: nose2 is the next generation of nicer testing for Python
-
-
 
 Current build status
 ====================
